@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Gold Tech Overhead",
+    "phone": "+16126623300",
+    "category": "garage door installer",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Minneapolis Garage Door Experts",
+      "heroSubline": "Reliable garage door installation and repair. Serving the Twin Cities with unmatched expertise and dedication.",
+      "aboutTitle": "Your Trusted Garage Door Partner in Minneapolis",
+      "aboutText": [
+        "Gold Tech Overhead started with a simple goal: to provide Minneapolis homeowners with dependable garage door services, delivered with honesty and skill. We saw a need for a contractor who understood the unique challenges of our Minnesota climate and housing stock.",
+        "We believe in doing the job right the first time, using quality materials and proven techniques. Our team is committed to clear communication, transparent pricing, and exceeding your expectations on every project. We treat your home like our own.",
+        "We're proud to be part of the Minneapolis community, supporting local initiatives and building lasting relationships with our customers. Our success is tied to the satisfaction of our neighbors, and we're committed to serving you for years to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Minneapolis homes and weather patterns, ensuring optimal garage door performance."
+        },
+        {
+          "title": "Fast Response",
+          "description": "Emergency repairs? We're available 24/7 to get your garage door back on track."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use durable, weather-resistant materials built to withstand Minnesota winters."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a comprehensive guarantee, ensuring your peace of mind."
+        }
+      ],
+      "ctaHeadline": "Get a Free Garage Door Quote Today!",
+      "ctaSubline": "Contact Gold Tech Overhead for reliable service and expert advice."
+    },
+    "services": [
+      {
+        "slug": "garage-door-installation",
+        "name": "Garage Door Installation",
+        "shortDescription": "Expert installation of new garage doors, customized to your Minneapolis home.",
+        "description": "Installing a new garage door is more than just aesthetics; it's about security, energy efficiency, and adding value to your home. At Gold Tech Overhead, we offer a wide selection of garage doors to suit every style and budget, from classic steel doors to insulated models that combat those brutal Minneapolis winters. We handle every aspect of the installation process, from removing your old door to ensuring smooth, reliable operation of your new one.\n\nOur team understands the nuances of Minneapolis housing, whether it's a charming Craftsman in Linden Hills or a modern condo downtown. We'll help you choose the right door to complement your home's architecture and withstand the elements. We pay close attention to detail, ensuring proper insulation and weather sealing to protect your garage from drafts and moisture. We also offer smart garage door openers with smartphone control for added convenience and security.\n\nWe source our doors from trusted manufacturers, guaranteeing quality and durability. Our installation process is meticulous, and we always clean up after ourselves, leaving you with a beautiful and functional garage door that will last for years to come. We obtain all necessary permits to ensure compliance with local building codes.",
+        "process": [
+          "Step 1: Consultation and Door Selection – We'll discuss your needs and help you choose the perfect door.",
+          "Step 2: Precise Measurements – We'll take accurate measurements to ensure a perfect fit.",
+          "Step 3: Professional Installation – Our experienced technicians will install your new door with precision.",
+          "Step 4: Testing and Calibration – We'll test the door's operation and calibrate the opener for smooth performance."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Improved Security",
+          "Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does garage door installation take?",
+            "answer": "Typically, a standard garage door installation takes between 4-6 hours. More complex installations or custom doors may require additional time. We'll give you a precise timeline during the consultation."
+          },
+          {
+            "question": "Do you offer garage door removal services?",
+            "answer": "Yes, we'll remove and dispose of your old garage door responsibly as part of our installation service. We ensure the removal process is safe and compliant with local environmental regulations."
+          },
+          {
+            "question": "What type of garage door is best for Minneapolis winters?",
+            "answer": "Insulated steel garage doors are highly recommended for Minneapolis winters. They provide excellent thermal protection, helping to keep your garage warmer and reduce energy costs. We can help you choose the right insulation level for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-repair",
+        "name": "Garage Door Repair",
+        "shortDescription": "Fast, reliable garage door repair services throughout Minneapolis and surrounding areas.",
+        "description": "A malfunctioning garage door can be a major inconvenience and a security risk. Gold Tech Overhead provides prompt and professional garage door repair services throughout the Minneapolis metro area. Whether it's a broken spring, a damaged panel, or a malfunctioning opener, our experienced technicians can diagnose and fix the problem quickly and efficiently.\n\nWe understand the urgency of garage door repairs, especially during the harsh Minnesota winters. That's why we offer 24/7 emergency service to get your door back in working order as soon as possible. We carry a wide range of replacement parts in our service vehicles, allowing us to complete most repairs on the spot.\n\nOur technicians are trained to work on all makes and models of garage doors and openers. We use only quality replacement parts to ensure lasting repairs. We also offer preventative maintenance services to help you avoid costly repairs down the road. We'll inspect your door, lubricate moving parts, and make any necessary adjustments to keep it running smoothly.",
+        "process": [
+          "Step 1: Diagnostic Assessment – We'll identify the root cause of the problem.",
+          "Step 2: Transparent Quote – We'll provide a clear and upfront cost estimate.",
+          "Step 3: Expert Repair – Our skilled technicians will perform the necessary repairs.",
+          "Step 4: Quality Assurance – We'll test the door to ensure smooth and reliable operation."
+        ],
+        "benefits": [
+          "Fast and Reliable Service",
+          "24/7 Emergency Repairs",
+          "Experienced Technicians",
+          "Quality Replacement Parts"
+        ],
+        "faq": [
+          {
+            "question": "How much does a garage door repair cost?",
+            "answer": "The cost of a garage door repair varies depending on the nature of the problem. We offer free estimates, so you'll know the exact cost before we begin any work. Common repairs like spring replacement typically range from $200-$400."
+          },
+          {
+            "question": "How long will it take to repair my garage door?",
+            "answer": "Most garage door repairs can be completed within 1-2 hours. More complex repairs may require additional time. We'll give you an estimated timeline when we assess the problem."
+          },
+          {
+            "question": "Do you offer emergency garage door repair services?",
+            "answer": "Yes, we offer 24/7 emergency garage door repair services in the Minneapolis area. Call us anytime, day or night, and we'll dispatch a technician to your location as soon as possible."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Troubleshooting and repair for all garage door opener brands and models.",
+        "description": "A faulty garage door opener can leave you stranded and vulnerable. Gold Tech Overhead specializes in garage door opener repair, servicing all major brands and models. From malfunctioning sensors to broken chains, we can diagnose and fix any opener issue.\n\nWe understand the importance of a properly functioning garage door opener for your security and convenience. Our technicians are equipped with the tools and expertise to quickly identify the problem and implement the appropriate solution. We carry a wide range of replacement parts, allowing us to complete most repairs on the spot.\n\nWe also offer garage door opener installation services, upgrading your old opener to a newer, more reliable model. We can install smart openers with smartphone control, battery backup, and other advanced features. Protect yourself during those frequent Minneapolis power outages!",
+        "process": [
+          "Step 1: Opener Inspection – We'll thoroughly inspect your opener for any signs of damage or malfunction.",
+          "Step 2: Diagnostic Testing – We'll run diagnostic tests to pinpoint the exact problem.",
+          "Step 3: Repair or Replacement – We'll repair or replace the faulty components.",
+          "Step 4: Opener Calibration – We'll calibrate the opener for optimal performance."
+        ],
+        "benefits": [
+          "Opener Brands Serviced",
+          "Enhanced Security",
+          "Convenience",
+          "Same-Day Repairs"
+        ],
+        "faq": [
+          {
+            "question": "My garage door opener is making a grinding noise. What could be the problem?",
+            "answer": "A grinding noise often indicates a problem with the gears inside the opener. It could be due to wear and tear, or lack of lubrication. We can inspect the opener and replace the gears if necessary."
+          },
+          {
+            "question": "My garage door opener remote isn't working. What should I do?",
+            "answer": "First, check the batteries in your remote. If the batteries are good, try reprogramming the remote. If that doesn't work, there may be an issue with the opener's receiver or the remote itself. We can diagnose the problem and provide a solution."
+          },
+          {
+            "question": "Can you install a smart garage door opener?",
+            "answer": "Yes, we can install a variety of smart garage door openers that offer features like smartphone control, battery backup, and security cameras. We can help you choose the right smart opener for your needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Safe and reliable garage door spring replacement services in Minneapolis.",
+        "description": "Garage door springs are under immense tension and can be dangerous to handle without the proper tools and training. Gold Tech Overhead offers safe and reliable garage door spring replacement services throughout Minneapolis. Whether you have torsion springs or extension springs, our experienced technicians can replace them quickly and efficiently.\n\nBroken garage door springs are a common problem, especially during the cold Minnesota winters. When the temperature drops, the metal in the springs can become brittle, increasing the risk of breakage. If you notice a broken spring, don't attempt to operate your garage door. Call Gold Tech Overhead for professional spring replacement.\n\nWe use only high-quality replacement springs that are designed to last. Our technicians are trained to properly balance your garage door, ensuring smooth and safe operation. We also offer preventative maintenance services to help you extend the life of your garage door springs.",
+        "process": [
+          "Step 1: Safety Inspection – We'll assess the condition of your springs and garage door system.",
+          "Step 2: Secure the Door – We'll safely secure the door to prevent it from falling.",
+          "Step 3: Spring Replacement – We'll replace the broken springs with high-quality replacements.",
+          "Step 4: Balance and Test – We'll balance the door and test its operation."
+        ],
+        "benefits": [
+          "Safety First",
+          "High-Quality Springs",
+          "Proper Door Balance",
+          "Extended Spring Life"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs of a broken garage door spring include a loud snapping sound, a garage door that is difficult to open or close, or a garage door that is hanging unevenly. If you notice any of these signs, call us immediately."
+          },
+          {
+            "question": "Can I replace the garage door springs myself?",
+            "answer": "Replacing garage door springs is extremely dangerous and should only be done by a trained professional. The springs are under high tension and can cause serious injury or death if mishandled. Gold Tech Overhead offers safe and reliable spring replacement services."
+          },
+          {
+            "question": "How long do garage door springs last?",
+            "answer": "The lifespan of garage door springs depends on several factors, including the quality of the springs, the frequency of use, and the climate. On average, garage door springs last between 7-12 years. We recommend having your springs inspected annually to ensure they are in good condition."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Replacing individual garage door panels to restore your door's appearance.",
+        "description": "Damaged garage door panels can detract from your home's curb appeal and compromise its security. Gold Tech Overhead offers garage door panel replacement services throughout Minneapolis, restoring the look and functionality of your door. Whether your panel is dented, cracked, or rusted, we can replace it with a matching panel.\n\nWe carry a wide selection of replacement panels to match most garage door styles and colors. Our technicians can quickly and efficiently remove the damaged panel and install a new one, restoring the appearance of your garage door. We also offer painting and finishing services to ensure that the new panel blends seamlessly with the rest of your door.\n\nReplacing individual panels is a cost-effective alternative to replacing the entire garage door. It's a great way to improve your home's curb appeal without breaking the bank.",
+        "process": [
+          "Step 1: Panel Assessment – We'll assess the damage and identify the correct replacement panel.",
+          "Step 2: Panel Removal – We'll carefully remove the damaged panel.",
+          "Step 3: Panel Installation – We'll install the new panel and secure it in place.",
+          "Step 4: Finishing Touches – We'll paint or finish the panel to match the rest of the door."
+        ],
+        "benefits": [
+          "Cost-Effective Solution",
+          "Improved Curb Appeal",
+          "Restored Security",
+          "Matching Panels"
+        ],
+        "faq": [
+          {
+            "question": "Can you match the color of my existing garage door panel?",
+            "answer": "Yes, we can match the color of your existing garage door panel. We offer painting and finishing services to ensure that the new panel blends seamlessly with the rest of your door."
+          },
+          {
+            "question": "Is it cheaper to replace a panel or the whole door?",
+            "answer": "In most cases, it is cheaper to replace a single panel than to replace the entire garage door. However, if multiple panels are damaged, it may be more cost-effective to replace the entire door. We can assess the damage and provide you with a recommendation."
+          },
+          {
+            "question": "Do you offer insulated garage door panels?",
+            "answer": "Yes, we offer insulated garage door panels that can improve your garage's energy efficiency and reduce noise. We can help you choose the right insulated panel for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-maintenance",
+        "name": "Garage Door Maintenance",
+        "shortDescription": "Keep your garage door running smoothly with our comprehensive maintenance services.",
+        "description": "Regular garage door maintenance is essential for preventing costly repairs and extending the life of your door. Gold Tech Overhead offers comprehensive garage door maintenance services throughout Minneapolis, ensuring that your door operates smoothly and safely.\n\nOur maintenance services include inspecting all moving parts, lubricating hinges and rollers, tightening loose bolts, and adjusting the opener settings. We'll also check the balance of your door and inspect the springs for signs of wear and tear. By identifying and addressing small problems early on, we can help you avoid major repairs down the road.\n\nWe recommend scheduling a garage door maintenance appointment at least once a year, especially before the onset of winter. This will help to ensure that your door is ready to withstand the harsh Minnesota weather.",
+        "process": [
+          "Step 1: Visual Inspection – We'll visually inspect all components of your garage door system.",
+          "Step 2: Lubrication – We'll lubricate all moving parts to reduce friction and wear.",
+          "Step 3: Tightening and Adjustments – We'll tighten loose bolts and adjust the opener settings.",
+          "Step 4: Balance Testing – We'll test the balance of your door to ensure smooth operation."
+        ],
+        "benefits": [
+          "Prevent Costly Repairs",
+          "Extend Door Life",
+          "Improved Safety",
+          "Smooth Operation"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my garage door serviced?",
+            "answer": "We recommend having your garage door serviced at least once a year, preferably before the winter season. This will help to ensure that your door is ready to withstand the cold weather and heavy use."
+          },
+          {
+            "question": "What are the benefits of garage door maintenance?",
+            "answer": "Regular garage door maintenance can help to prevent costly repairs, extend the life of your door, improve safety, and ensure smooth operation. It's a small investment that can save you a lot of money and hassle in the long run."
+          },
+          {
+            "question": "Can I perform garage door maintenance myself?",
+            "answer": "Some basic garage door maintenance tasks, such as lubricating the moving parts, can be performed by homeowners. However, more complex tasks, such as adjusting the springs or opener settings, should be left to a trained professional."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Paul",
+        "slug": "st-paul-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead is proud to offer garage door installation and repair services to the residents of St. Paul, Minnesota. From the historic Victorian homes along Summit Avenue to the bustling Grand Avenue commercial district, we understand the unique architectural character of St. Paul and the needs of its homeowners. Our experienced technicians are equipped to handle any garage door issue, from simple repairs to complete replacements, ensuring your home's security and curb appeal.\n\nWe know that St. Paul experiences extreme cold winters, often dipping below zero. A properly functioning and well-insulated garage door is crucial for maintaining energy efficiency and protecting your vehicles and belongings from the harsh elements. Gold Tech Overhead offers a wide range of insulated garage doors and weather sealing services to keep your St. Paul home warm and secure throughout the winter months.",
+        "localContext": "St. Paul, Minnesota, known for its historic architecture like the Victorian-era homes on Summit Avenue, experiences extreme cold winters that require durable and well-insulated garage doors.",
+        "nearbyAreas": [
+          "Minneapolis",
+          "West St. Paul",
+          "Maplewood"
+        ]
+      },
+      {
+        "city": "Plymouth",
+        "slug": "plymouth-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead provides expert garage door services to homeowners in Plymouth, Minnesota. Known for its established suburban neighborhoods built in the 1970s and 80s, Plymouth residents value quality and reliability. We offer a full range of services, including garage door repair, installation, and maintenance, tailored to the needs of Plymouth homes.\n\nGiven Plymouth's harsh winters with temperatures often below zero, a reliable and well-insulated garage door is essential. Gold Tech Overhead offers a variety of insulated garage doors designed to withstand the extreme cold and keep your garage warm and energy-efficient. We also provide prompt and efficient repair services to ensure your garage door is always functioning properly.",
+        "localContext": "Plymouth, MN, characterized by its 1970s-80s suburban homes, experiences extreme cold winters that necessitate reliable and well-insulated garage doors.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Minnetonka",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Eden Prairie",
+        "slug": "eden-prairie-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead is dedicated to providing top-notch garage door services to the residents of Eden Prairie, Minnesota. With its many planned developments from the 1980s and 90s, Eden Prairie boasts a diverse array of housing styles. We are adept at installing and repairing all types of garage doors to suit any home's aesthetic and functional requirements.\n\nEden Prairie's climate demands a durable garage door that can withstand the extreme cold of winter. Gold Tech Overhead offers a selection of insulated garage doors designed to minimize heat loss and keep your garage warm and protected from the elements. We also provide emergency repair services to address any unexpected issues promptly and efficiently.",
+        "localContext": "Eden Prairie, MN, featuring planned developments from the 1980s-90s, experiences extreme cold winters requiring durable and insulated garage door solutions.",
+        "nearbyAreas": [
+          "Minnetonka",
+          "Hopkins",
+          "Chanhassen"
+        ]
+      },
+      {
+        "city": "Maple Grove",
+        "slug": "maple-grove-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead proudly serves the garage door needs of Maple Grove, Minnesota. Known for its family-friendly developments built in the 1990s and 2000s, Maple Grove is a thriving community with a wide range of housing styles. We specialize in garage door installation, repair, and maintenance services tailored to the specific needs of Maple Grove homeowners.\n\nMaple Grove experiences harsh winters with temperatures often dropping below zero. A properly functioning and well-insulated garage door is crucial for maintaining your home's energy efficiency and protecting your vehicles from the cold. Gold Tech Overhead offers a variety of insulated garage doors and weather sealing services to keep your Maple Grove home warm and secure throughout the winter.",
+        "localContext": "Maple Grove, MN, with its family developments from the 1990s-2000s, experiences extreme cold winters where reliable garage doors are vital for home protection.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Osseo",
+          "Rogers"
+        ]
+      },
+      {
+        "city": "Bloomington",
+        "slug": "bloomington-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead is your trusted provider for garage door services in Bloomington, Minnesota. With its established ranch-style homes built in the 1960s and 70s, Bloomington presents a unique architectural landscape. We understand the specific needs of Bloomington homeowners and offer comprehensive garage door solutions, from repairs to new installations.\n\nBloomington's cold winters necessitate a well-functioning and insulated garage door. Gold Tech Overhead offers a wide range of insulated garage doors designed to withstand the extreme temperatures and keep your garage warm and energy-efficient. We also provide prompt and reliable repair services to ensure your garage door is always in optimal condition.",
+        "localContext": "Bloomington, MN, characterized by its 1960s-70s ranch homes, experiences extreme cold winters requiring effective garage door insulation and maintenance.",
+        "nearbyAreas": [
+          "Richfield",
+          "Edina",
+          "Eagan"
+        ]
+      },
+      {
+        "city": "Minnetonka",
+        "slug": "minnetonka-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead is pleased to offer our garage door services to the residents of Minnetonka, Minnesota. As a city known for its beautiful homes and landscapes, Minnetonka residents take pride in maintaining their properties. We provide garage door installation, repair, and maintenance services to enhance the beauty and functionality of your home.\n\nMinnetonka experiences extreme cold winters, making a well-insulated garage door essential. Gold Tech Overhead offers a variety of insulated garage doors designed to withstand the harsh weather conditions and keep your garage warm and energy-efficient. We also provide emergency repair services to address any unexpected issues quickly and efficiently.",
+        "localContext": "Minnetonka, MN, known for its attractive homes and surroundings, experiences extreme cold winters where reliable garage doors are crucial.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Eden Prairie",
+          "Hopkins"
+        ]
+      },
+      {
+        "city": "Edina",
+        "slug": "edina-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead is committed to providing exceptional garage door services in Edina, Minnesota. Edina is known for its well-maintained homes and upscale neighborhoods. We understand the importance of quality and aesthetics for Edina homeowners and offer a wide range of garage door styles and materials to complement your home's architecture.\n\nGiven Edina's cold winters, a reliable and energy-efficient garage door is essential. Gold Tech Overhead offers a variety of insulated garage doors designed to withstand the extreme temperatures and keep your garage warm and secure. We also provide prompt and professional repair services to ensure your garage door is always functioning at its best.",
+        "localContext": "Edina, MN, characterized by its upscale neighborhoods and well-maintained homes, experiences extreme cold winters requiring high-quality garage door solutions.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Richfield",
+          "St. Louis Park"
+        ]
+      },
+      {
+        "city": "Woodbury",
+        "slug": "woodbury-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead extends its expert garage door services to Woodbury, Minnesota. Woodbury is a growing community known for its family-friendly atmosphere and diverse housing options. We provide comprehensive garage door solutions, including installation, repair, and maintenance, tailored to the needs of Woodbury residents.\n\nWoodbury experiences harsh winters with temperatures regularly dropping below zero. A properly insulated garage door is crucial for maintaining energy efficiency and protecting your vehicles and belongings from the cold. Gold Tech Overhead offers a variety of insulated garage doors and weather sealing services to keep your Woodbury home warm and secure throughout the winter months.",
+        "localContext": "Woodbury, MN, a growing family-friendly community, experiences extreme cold winters where reliable garage doors are essential for home comfort and protection.",
+        "nearbyAreas": [
+          "Oakdale",
+          "Maplewood",
+          "Lake Elmo"
+        ]
+      },
+      {
+        "city": "Eagan",
+        "slug": "eagan-mn",
+        "state": "MN",
+        "content": "Gold Tech Overhead is proud to offer garage door services to the residents of Eagan, Minnesota. Eagan is a vibrant city with a mix of residential and commercial areas. We understand the diverse needs of Eagan homeowners and businesses and offer a full range of garage door solutions, from repairs to new installations.\n\nEagan's climate demands a durable and well-insulated garage door to withstand the extreme cold of winter. Gold Tech Overhead offers a selection of insulated garage doors designed to minimize heat loss and keep your garage warm and protected from the elements. We also provide emergency repair services to address any unexpected issues promptly and efficiently.",
+        "localContext": "Eagan, MN, a vibrant city with diverse areas, experiences extreme cold winters requiring reliable and efficient garage door solutions.",
+        "nearbyAreas": [
+          "Burnsville",
+          "Inver Grove Heights",
+          "Apple Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Installation",
+        "text": "Gold Tech Overhead installed a new insulated garage door at my home in Southwest Minneapolis. The team was professional, efficient, and did an excellent job. The new door looks great and has already made a difference in keeping the garage warmer during these cold nights. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Garage Door Repair",
+        "text": "My garage door spring broke on a Sunday morning, and Gold Tech Overhead was able to come out and fix it within a couple of hours. The technician was knowledgeable and courteous. The price was reasonable, and I appreciated the quick response time.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily S.",
+        "rating": 5,
+        "service": "Garage Door Opener Repair",
+        "text": "Our garage door opener stopped working, and Gold Tech Overhead was able to diagnose and fix the problem quickly. They were very professional and explained everything clearly. I would definitely use them again.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Garage Door Maintenance",
+        "text": "I hired Gold Tech Overhead for a routine garage door maintenance check. The technician was thorough and identified a couple of minor issues that could have turned into bigger problems down the road. I appreciate their attention to detail and preventative approach.",
+        "date": "2025-01-12"
+      },
+      {
+        "name": "Lisa R.",
+        "rating": 4,
+        "service": "Garage Door Panel Replacement",
+        "text": "A storm damaged one of the panels on my garage door. Gold Tech Overhead was able to replace the damaged panel with a matching one. The repair was seamless, and you can't even tell that the panel was replaced.",
+        "date": "2024-07-28"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Garage Door Installation",
+        "text": "From the initial quote to the final installation, Gold Tech Overhead provided exceptional service. They helped me choose the perfect garage door for my home in Uptown, and the installation was flawless. I highly recommend them!",
+        "date": "2025-04-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Gold Tech Overhead | Garage Door Minneapolis",
+        "description": "Expert garage door services in Minneapolis, MN. Installation, repair, openers, springs. Call +16126623300 for a free quote!"
+      },
+      "about": {
+        "title": "About Gold Tech Overhead | Minneapolis Garage Doors",
+        "description": "Learn about Gold Tech Overhead's commitment to quality garage door service in Minneapolis. Local experts you can trust."
+      },
+      "services": {
+        "title": "Minneapolis Garage Door Services | Gold Tech Overhead",
+        "description": "Comprehensive garage door services in Minneapolis: installation, repair, openers, and maintenance. Reliable and affordable solutions."
+      },
+      "contact": {
+        "title": "Contact Gold Tech Overhead | Minneapolis MN",
+        "description": "Contact Gold Tech Overhead for garage door service in Minneapolis. Get a free quote: +16126623300. Serving the Twin Cities."
+      },
+      "reviews": {
+        "title": "Gold Tech Overhead Reviews | Minneapolis Garage Doors",
+        "description": "Read what our Minneapolis customers are saying about Gold Tech Overhead's garage door services. See why we're the trusted choice."
+      },
+      "service-areas": {
+        "title": "Garage Door Service Areas | Gold Tech Overhead",
+        "description": "Gold Tech Overhead provides garage door services throughout the Minneapolis metro area. Find a local technician near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-installation": "/images/service-garage-door-installation.webp",
+      "garage-door-repair": "/images/service-garage-door-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-spring-replacement": "/images/service-garage-door-spring-replacement.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp",
+      "garage-door-maintenance": "/images/service-garage-door-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-installation": {
+        "src": "/images/service-garage-door-installation.webp",
+        "srcset": "/images/service-garage-door-installation-400w.webp 400w, /images/service-garage-door-installation-800w.webp 800w, /images/service-garage-door-installation-1200w.webp 1200w, /images/service-garage-door-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-repair": {
+        "src": "/images/service-garage-door-repair.webp",
+        "srcset": "/images/service-garage-door-repair-400w.webp 400w, /images/service-garage-door-repair-800w.webp 800w, /images/service-garage-door-repair-1200w.webp 1200w, /images/service-garage-door-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-spring-replacement": {
+        "src": "/images/service-garage-door-spring-replacement.webp",
+        "srcset": "/images/service-garage-door-spring-replacement-400w.webp 400w, /images/service-garage-door-spring-replacement-800w.webp 800w, /images/service-garage-door-spring-replacement-1200w.webp 1200w, /images/service-garage-door-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-maintenance": {
+        "src": "/images/service-garage-door-maintenance.webp",
+        "srcset": "/images/service-garage-door-maintenance-400w.webp 400w, /images/service-garage-door-maintenance-800w.webp 800w, /images/service-garage-door-maintenance-1200w.webp 1200w, /images/service-garage-door-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

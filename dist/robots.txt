@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-gold-tech-overhead.dream-surge.com/sitemap-index.xml
